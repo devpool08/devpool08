@@ -56,8 +56,8 @@
 
 ⭐️ From [Debadatta](https://github.com/datt03)    Hare Krishna 🙏
 
-[//]: # (<p align="center">)
+<p align="center">
 
-[//]: # (  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />)
+<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 
-[//]: # (</p>)
+</p>
